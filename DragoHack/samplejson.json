@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "type": "student",
+    "firstname": "Mary",
+    "lastname": "Liu",
+    "phonenumber": 2673364446,
+    "emergencyphonenumber": 2673364267
+  },
+  {
+    "id": 2,
+    "type": "student",
+    "firstname": "Sandra",
+    "lastname": "Liu",
+    "phonenumber": 2673364267,
+    "emergencyphonenumber": 2673364446
+  },
+  {
+    "id": 3,
+    "type": "Staff",
+    "firstname": "Y",
+    "lastname": "Hy",
+    "phonenumber": 2673932727,
+    "emergencyphonenumber": 2673364267
+  },
+  {
+    "id": 4,
+    "type": "Staff",
+    "firstname": "Wayne",
+    "lastname": "Lee",
+    "phonenumber": 2154854042,
+    "emergencyphonenumber": 2673932727
+  }
+]
